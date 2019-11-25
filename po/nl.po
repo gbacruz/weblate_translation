@@ -22,6 +22,14 @@ msgstr ""
 msgid "Hello, world!\n"
 msgstr ""
 
+msgctxt "CApitalized "
+msgid "Just Now"
+msgstr "Just now in dutch"
+
+
+
+
+
 #: main.c:12
 #, c-format
 msgid "Orangutan has %d banana.\n"
