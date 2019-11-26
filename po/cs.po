@@ -19,20 +19,20 @@ msgstr ""
 #: src/java/com/indeed/myindeed/util/ResumeCommonActions.java:1
 msgctxt "microcontent"
 msgid ""
-msgstr ""
+msgstr "microcontent in Chez"
 
 #: web/static/mobile-new/js/components/editors/AdditionalProfile/AdditionalProfileSaved.js:1
 msgid "%"
-msgstr ""
+msgstr "percent in Chez"
 
 #: web/static/mobile-new/js/components/editors/AdditionalProfile/AdditionalProfileForm.js:1
 msgctxt "myindeed"
 msgid "%"
-msgstr "%"
+msgstr "% percent in Chez myindeed indeed deed"
 
 #: web/static/mobile-new/js/components/splash/BasicProfileUploadContainer.js:1
 msgid "(Recommended)"
-msgstr ""
+msgstr "Recommended in Chez"
 
 #: web/static/mobile-new/js/components/editors/MatchAutoApplyModal.js:1
 msgid "*Source: Indeed applicant data Jan-Feb 2018"
@@ -5166,8 +5166,8 @@ msgstr "{0} let a více"
 #~ msgstr "psali webové aplikace v jazyce Java"
 
 # * Status: human_api_translated
-#~ msgid "{0} jobs"
-#~ msgstr "Nabídky práce {0}"
+msgid "{0} jobs"
+msgstr "Nabídky práce {0}"
 
 # * Status: machine_translate
 # * Status: human_api_translated
