@@ -15,12 +15,90 @@ msgstr ""
 "X-Generator: Weblate 1.8\n"
 
 
+#: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/HanselInformationSectionTabInfo.js:1
+msgid "Application"
+msgstr "Sollicitatie"
+
+#: src/resources/webapp/static/scripts/components/hansel/HanselNamePlate.js:1
+#, python-brace-format
+msgid "Applied to {0} - {1}"
+msgstr "Heeft gesolliciteerd naar {0} in {1}"
+
+#: src/resources/webapp/static/scripts/components/hansel/CandidateDetailHeader/BackToListButton.js:1
+#, python-brace-format
+msgid "Back to {0}"
+msgstr "Terug naar {0}"
+
+#: src/resources/webapp/static/scripts/components/hansel/CandidateDetailHeader/NavigationInfo.js:1
+#, python-brace-format
+msgid "Candidate {0} of {1}"
+msgstr "Kandidaat {0} van {1}"
+
+#: src/resources/webapp/static/scripts/components/hansel/NoteSection/AddNoteEditor.js:1
+#: src/resources/webapp/static/scripts/components/hansel/NoteSection/HanselNoteBlock.js:1
+#: src/resources/webapp/static/scripts/components/hansel/NoteSection/HanselRejectionReasonWidget.js:1
+#: src/resources/webapp/static/scripts/utils/CommonStrings.js:1
+msgid "Just now"
+msgstr "Zojuist"
 
 #. Text to show the time after a Note is recently posted.
 #: src/resources/webapp/static/scripts/components/widgets/reportCallCandidate/ReportCallCandidateWidget.js:1
 #: web/WEB-INF/templates/common/strings.soy:1
 #, java-format
-msgctxt "lowercase"
 msgid "just now"
-msgstr "nu net lower case"
+msgstr "zojuist nu net"
+
+#: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/MessagesTab/HanselMessageSuggestions.js:1
+msgid "Message suggestions"
+msgstr "Voorgestelde berichten"
+
+#: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/ApplicationTab/NoApplicationPanel.js:1
+msgid "No application materials to review."
+msgstr "Geen sollicitatiedocumenten om te bekijken."
+
+#: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/MessagesTab/NoMessagesPanel.js:1
+msgid "No messages to review!"
+msgstr "Geen berichten om te bekijken!"
+
+#: src/resources/webapp/static/scripts/components/hansel/HanselNoteSection.js:1
+msgid "Notes"
+msgstr "Opmerkingen"
+
+#: src/resources/webapp/static/scripts/components/hansel/HanselNoteSection.js:1
+msgid "Only visible to your team"
+msgstr "Alleen zichtbaar voor je team"
+
+#: src/resources/webapp/static/scripts/components/hansel/CandidateDetailHeader/NextPreBlock.js:1
+msgid "Prev"
+msgstr "Vorige"
+
+#: src/resources/webapp/static/scripts/components/hansel/NoteSection/HanselRejectionReasonWidget.js:1
+msgid "Reason for rejection (private)"
+msgstr "Reden voor afwijzing (vertrouwelijk)"
+
+#: src/resources/webapp/static/scripts/components/ScreenerQuestionsPanel.js:1
+msgid "Screener questions"
+msgstr "Screeningsvragen"
+
+#: src/resources/webapp/static/scripts/components/actionButtons/ActionButtonsInfo.js:1
+msgid "View phone details"
+msgstr "Telefoongegevens"
+
+#: src/resources/webapp/static/scripts/components/hansel/NoteSection/AddNoteEditor.js:1
+msgid "Write your note here..."
+msgstr "Schrijf hier je opmerking..."
+
+#: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/ApplicationTab/HanselQuestionsAnswerBlock.js:1
+msgid "Your requirement:"
+msgstr "Je vereiste:"
+
+#: src/resources/webapp/static/scripts/components/actions/HanselCandidateDetailActions.js:1
+#, python-brace-format
+msgid "{0} was marked as '{1}'"
+msgstr "{0} is gemarkeerd als '{1}'"
+
+#: src/resources/webapp/static/scripts/components/actions/HanselCandidateDetailActions.js:1
+#, python-brace-format
+msgid "{0} was marked as '{1}' and moved to {2}"
+msgstr "{0} is gemarkeerd als '{1}' en verplaatst naar {2}"
 
