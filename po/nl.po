@@ -45,6 +45,7 @@ msgstr "Zojuist"
 #: src/resources/webapp/static/scripts/components/widgets/reportCallCandidate/ReportCallCandidateWidget.js:1
 #: web/WEB-INF/templates/common/strings.soy:1
 #, java-format
+msgctxt "lowercase"
 msgid "just now"
 msgstr "zojuist nu net net jet"
 
