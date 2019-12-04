@@ -37,3 +37,14 @@ msgstr ""
 #: main.c:14
 msgid "Thank you for using Weblate."
 msgstr ""
+
+
+msgid "Just now"
+msgstr "Zojuist"
+
+#. Text to show the time after a Note is recently posted.
+#: src/resources/webapp/static/scripts/components/widgets/reportCallCandidate/ReportCallCandidateWidget.js:1
+#: web/WEB-INF/templates/common/strings.soy:1
+#, java-format
+msgid "just now"
+msgstr "zojuist nu net"
