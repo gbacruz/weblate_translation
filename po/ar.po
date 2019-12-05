@@ -22,12 +22,12 @@ msgstr ""
 
 #: web/static/mobile-new/js/components/editors/AdditionalProfile/AdditionalProfileSaved.js:1
 msgid "%"
-msgstr ""
+msgstr "XXXX"
 
 #: web/static/mobile-new/js/components/editors/AdditionalProfile/additionalProfileFields.js:1
 msgctxt "myindeed"
 msgid "%"
-msgstr ""
+msgstr "XXXXX"
 
 #: web/static/mobile-new/js/components/splash/BasicProfileUploadContainer.js:1
 msgid "(Recommended)"
