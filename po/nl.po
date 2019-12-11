@@ -38,6 +38,8 @@ msgstr "Kandidaat {0} van {1}"
 #: src/resources/webapp/static/scripts/components/hansel/NoteSection/HanselNoteBlock.js:1
 #: src/resources/webapp/static/scripts/components/hansel/NoteSection/HanselRejectionReasonWidget.js:1
 #: src/resources/webapp/static/scripts/utils/CommonStrings.js:1
+
+msgcntxt "capitalize thing"
 msgid "Just now"
 msgstr "Zojuist"
 
@@ -45,6 +47,8 @@ msgstr "Zojuist"
 #: src/resources/webapp/static/scripts/components/widgets/reportCallCandidate/ReportCallCandidateWidget.js:1
 #: web/WEB-INF/templates/common/strings.soy:1
 #, java-format
+
+msgcntxt "capitalize thing"
 msgid "just now"
 msgstr "zojuist nu net"
 
