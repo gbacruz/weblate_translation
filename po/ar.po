@@ -31,7 +31,12 @@ msgstr "XXXXX"
 
 #: web/static/mobile-new/js/components/splash/BasicProfileUploadContainer.js:1
 msgid "(Recommended)"
+msgstr "For github changed "
+
+
+msgid "(recommended)"
 msgstr "for github changed "
+
 
 #: web/static/mobile-new/js/components/editors/MatchAutoApplyModal.js:1
 msgid "*Source: Indeed applicant data Jan-Feb 2018"
