@@ -15,10 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Weblate 3.6.1\n"
 
-#: src/java/com/indeed/myindeed/util/ResumeCommonActions.java:1
-msgctxt "microcontent"
-msgid ""
-msgstr ""
+
 
 #: web/static/mobile-new/js/components/editors/AdditionalProfile/AdditionalProfileSaved.js:1
 msgid "%"
@@ -30,28 +27,14 @@ msgid "%"
 msgstr "XXXXX"
 
 #: web/static/mobile-new/js/components/splash/BasicProfileUploadContainer.js:1
+
+
 msgid "(Recommended)"
 msgstr "For github changed "
 
-
+msgctxt "lowercase"
 msgid "(recommended)"
 msgstr "for github changed "
-
-
-msgid "(recommendeD)"
-msgstr "for github changed "
-
-
-
-msgid "(rEcommended)"
-msgstr "for github changed "
-
-
-
-
-msgid "(recommendEd)"
-msgstr "for github changed "
-
 
 
 
