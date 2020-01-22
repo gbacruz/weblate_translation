@@ -21,6 +21,11 @@ msgstr ""
 msgid " -- select an option -- "
 msgstr " arabic word for select option "
 
+
+msgid " -- select an option -- "
+msgstr " arabic word for select option duplicated strings here"
+
+
 #. Name of the company on the footer, {0} is the year for copyright
 #: web/WEB-INF/templates/app/candidate-apply-invite.soy:1
 #, java-format
