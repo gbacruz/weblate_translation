@@ -4,20 +4,20 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-31 20:54-0500\n"
-"PO-Revision-Date: 2016-10-19 13:59-0500\n"
-"Last-Translator: Martin Brownridge <mbrownridge@indeed.com>\n"
-"Language-Team: English <http://example.com/weblate/projects/indeed/dradis-webapp/en/>\n"
-"Language: en\n"
+"PO-Revision-Date: 2020-07-30 18:28+0000\n"
+"Last-Translator: alberto <alberto.rios@globant.com>\n"
+"Language-Team: Dutch <http://weblate.corp.indeed.com/projects/hello-world/"
+"weblocal/nl/>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 1.8\n"
-
+"X-Generator: Weblate 3.9.1\n"
 
 #: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/HanselInformationSectionTabInfo.js:1
 msgid "Application"
-msgstr "Sollicitatie"
+msgstr "Sollicitatie de totie amotie"
 
 #: src/resources/webapp/static/scripts/components/hansel/HanselNamePlate.js:1
 #, python-brace-format
@@ -38,7 +38,6 @@ msgstr "Kandidaat {0} van {1}"
 #: src/resources/webapp/static/scripts/components/hansel/NoteSection/HanselNoteBlock.js:1
 #: src/resources/webapp/static/scripts/components/hansel/NoteSection/HanselRejectionReasonWidget.js:1
 #: src/resources/webapp/static/scripts/utils/CommonStrings.js:1
-
 msgctxt "Capitalize"
 msgid "Just now"
 msgstr "Zojuist"
@@ -47,8 +46,6 @@ msgstr "Zojuist"
 #: src/resources/webapp/static/scripts/components/widgets/reportCallCandidate/ReportCallCandidateWidget.js:1
 #: web/WEB-INF/templates/common/strings.soy:1
 #, java-format
-
-
 msgid "just now"
 msgstr "zojuist nu net"
 
@@ -67,4 +64,3 @@ msgstr "Geen berichten om te bekijken!"
 #: src/resources/webapp/static/scripts/components/hansel/HanselNoteSection.js:1
 msgid "Notes"
 msgstr "Opmerkingen"
-
