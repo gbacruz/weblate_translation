@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-31 20:54-0500\n"
-"PO-Revision-Date: 2020-07-30 21:50+0000\n"
+"PO-Revision-Date: 2020-07-31 00:05+0000\n"
 "Last-Translator: alberto <alberto.rios@globant.com>\n"
 "Language-Team: Dutch <http://weblate.corp.indeed.com/projects/hello-world/"
 "weblocal/nl/>\n"
@@ -22,7 +22,7 @@ msgstr "TEST WITH COMMIT CUTSOM MESSAGE"
 #: src/resources/webapp/static/scripts/components/hansel/HanselNamePlate.js:1
 #, python-brace-format
 msgid "Applied to {0} - {1}"
-msgstr "Heeft gesolliciteerd naar {0} in {1}"
+msgstr "Heeft gesolliciteerd naar {0} in {1} test win"
 
 #: src/resources/webapp/static/scripts/components/hansel/CandidateDetailHeader/BackToListButton.js:1
 #, python-brace-format
