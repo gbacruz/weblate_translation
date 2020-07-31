@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-31 20:54-0500\n"
-"PO-Revision-Date: 2020-07-31 00:22+0000\n"
+"PO-Revision-Date: 2020-07-31 18:23+0000\n"
 "Last-Translator: alberto <alberto.rios@globant.com>\n"
 "Language-Team: Dutch <http://weblate.corp.indeed.com/projects/hello-world/"
 "weblocal/nl/>\n"
@@ -41,27 +41,27 @@ msgstr "Kandidaat {0} van {1}"
 #: src/resources/webapp/static/scripts/utils/CommonStrings.js:1
 msgctxt "Capitalize"
 msgid "Just now"
-msgstr "Zojuist"
+msgstr "Zojuist xxxxx"
 
 #. Text to show the time after a Note is recently posted.
 #: src/resources/webapp/static/scripts/components/widgets/reportCallCandidate/ReportCallCandidateWidget.js:1
 #: web/WEB-INF/templates/common/strings.soy:1
 #, java-format
 msgid "just now"
-msgstr "zojuist nu net"
+msgstr "zojuist nu net aa"
 
 #: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/MessagesTab/HanselMessageSuggestions.js:1
 msgid "Message suggestions"
-msgstr "Voorgestelde berichten"
+msgstr "Voorgestelde berichten   ccccccccccc"
 
 #: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/ApplicationTab/NoApplicationPanel.js:1
 msgid "No application materials to review."
-msgstr "Geen sollicitatiedocumenten om te bekijken."
+msgstr "Geen sollicitatiedocumenten om te bekijken. ssssssssss"
 
 #: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/MessagesTab/NoMessagesPanel.js:1
 msgid "No messages to review!"
-msgstr "Geen berichten om te bekijken!"
+msgstr "Geen berichten om te bekijken!   zzzzzzzzzzzzzzzz"
 
 #: src/resources/webapp/static/scripts/components/hansel/HanselNoteSection.js:1
 msgid "Notes"
-msgstr "Opmerkingen"
+msgstr "Opmerkingen 1111111111111111"
