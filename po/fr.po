@@ -22,7 +22,7 @@ msgstr ""
 #: main.c:11
 #, c-format
 msgid "Hello, world!\n"
-msgstr "accccc"
+msgstr "accccccccc"
 
 #: main.c:12
 #, c-format
