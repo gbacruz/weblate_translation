@@ -8,25 +8,30 @@ msgstr ""
 "Project-Id-Version: Weblate Hello World 2012\n"
 "Report-Msgid-Bugs-To: <noreply@example.net>\n"
 "POT-Creation-Date: 2012-03-14 15:54+0100\n"
-"PO-Revision-Date: 2012-03-05 15:55+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-10-05 23:11+0000\n"
+"Last-Translator: alberto <alberto.rios@globant.com>\n"
+"Language-Team: Catalan <http://weblate.corp.indeed.com/projects/hello-world/"
+"weblocal/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ASCII\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: main.c:11
 #, c-format
 msgid "Hello, world!\n"
 msgstr ""
+"hola mundillo\n"
+"x"
 
 #: main.c:12
 #, c-format
 msgid "Orangutan has %d banana.\n"
 msgid_plural "Orangutan has %d bananas.\n"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "x"
+msgstr[1] "x"
 
 #: main.c:13
 #, c-format
