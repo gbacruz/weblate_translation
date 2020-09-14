@@ -4,9 +4,10 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-01 09:55-0500\n"
-"PO-Revision-Date: 2020-01-17 18:35+0000\n"
-"Last-Translator: alberto <alberto@alberto.com>\n"
-"Language-Team: Arabic <http://example.com/projects/indeed/cerberus/ar/>\n"
+"PO-Revision-Date: 2020-10-05 23:11+0000\n"
+"Last-Translator: alberto <alberto.rios@globant.com>\n"
+"Language-Team: Arabic <http://weblate.corp.indeed.com/projects/hello-world/"
+"weblocal/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,10 +22,8 @@ msgstr ""
 msgid " -- select an option -- "
 msgstr " arabic word for select option "
 
-
 msgid " -- select an option -- "
 msgstr " arabic word for select option duplicated strings here"
-
 
 #. Name of the company on the footer, {0} is the year for copyright
 #: web/WEB-INF/templates/app/candidate-apply-invite.soy:1
@@ -41,7 +40,7 @@ msgstr ""
 #: web/WEB-INF/templates/app/candidate-details.soy:1
 #, java-format
 msgid "({0}/{1})"
-msgstr "({0}/{1})"
+msgstr "({0}/{1}) TEST"
 
 #. Indicates that the email will be sent to a single candidate
 #: web/WEB-INF/templates/app/candidate-messages.soy:1
@@ -3474,12 +3473,12 @@ msgstr "{0} - المرشحون"
 #, java-format
 msgid "{0} - {1} of {2} candidate"
 msgid_plural "{0} - {1} of {2} candidates"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "T1"
+msgstr[1] "T2"
+msgstr[2] "T3"
+msgstr[3] "T4"
+msgstr[4] "T5"
+msgstr[5] "T6"
 
 # * Status: human_api_translated_plural_form_1
 # * Status: human_api_translated_plural_form_0
@@ -3698,7 +3697,7 @@ msgstr ""
 #: web/WEB-INF/templates/app/candidate-details.soy:1
 #, java-format
 msgid "{0}/{1} answers met requirements"
-msgstr "{0}/{1} إجابات مطابقة للشروط"
+msgstr "{0}/{1} إجابات مطابقة للشروط TEST 2"
 
 #. A subject of an initial message to send multiple candidates from an employer
 #: web/WEB-INF/templates/app/candidate-messages.soy:1
