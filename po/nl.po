@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-31 20:54-0500\n"
-"PO-Revision-Date: 2020-08-10 15:59+0000\n"
+"PO-Revision-Date: 2020-10-06 15:16+0000\n"
 "Last-Translator: alberto <alberto.rios@globant.com>\n"
 "Language-Team: Dutch <http://weblate.corp.indeed.com/projects/hello-world/"
 "weblocal/nl/>\n"
@@ -17,12 +17,12 @@ msgstr ""
 
 #: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/HanselInformationSectionTabInfo.js:1
 msgid "Application"
-msgstr "TEST WITH COMMIT CUTSOM MESSAGEvddd"
+msgstr "sollicitatie x"
 
 #: src/resources/webapp/static/scripts/components/hansel/HanselNamePlate.js:1
 #, python-brace-format
 msgid "Applied to {0} - {1}"
-msgstr "Heeft gesolliciteerd naar {0} in {1} test win"
+msgstr "Heeft gesolliciteerd naar {0} in {1} test winn tet"
 
 #: src/resources/webapp/static/scripts/components/hansel/CandidateDetailHeader/BackToListButton.js:1
 #, python-brace-format
@@ -32,7 +32,7 @@ msgstr "regreso a {0}"
 #: src/resources/webapp/static/scripts/components/hansel/CandidateDetailHeader/NavigationInfo.js:1
 #, python-brace-format
 msgid "Candidate {0} of {1}"
-msgstr "Kandidaat {0} van {1} candidato"
+msgstr "Kandidaat {0} van {1} candidato test commit a"
 
 #: src/resources/webapp/static/scripts/components/hansel/NoteSection/AddNoteEditor.js:1
 #: src/resources/webapp/static/scripts/components/hansel/NoteSection/HanselNoteBlock.js:1
