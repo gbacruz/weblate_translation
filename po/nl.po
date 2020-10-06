@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-31 20:54-0500\n"
-"PO-Revision-Date: 2020-10-06 19:14+0000\n"
+"PO-Revision-Date: 2020-10-08 21:41+0000\n"
 "Last-Translator: alberto <alberto.rios@globant.com>\n"
 "Language-Team: Dutch <http://weblate.corp.indeed.com/projects/hello-world/"
 "weblocal/nl/>\n"
@@ -51,7 +51,7 @@ msgstr "zojuist nu net aa y ahora con ustedes:::: )sdcccccc"
 
 #: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/MessagesTab/HanselMessageSuggestions.js:1
 msgid "Message suggestions"
-msgstr "Voorgestelde berichten   ccccccccccc"
+msgstr "Voorgestelde berichten   aq"
 
 #: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/ApplicationTab/NoApplicationPanel.js:1
 msgid "No application materials to review."
