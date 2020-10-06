@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-31 20:54-0500\n"
-"PO-Revision-Date: 2020-10-06 15:34+0000\n"
+"PO-Revision-Date: 2020-10-06 16:01+0000\n"
 "Last-Translator: alberto <alberto.rios@globant.com>\n"
 "Language-Team: Dutch <http://weblate.corp.indeed.com/projects/hello-world/"
 "weblocal/nl/>\n"
@@ -47,7 +47,7 @@ msgstr "Zojuist xxxxx"
 #: web/WEB-INF/templates/common/strings.soy:1
 #, java-format
 msgid "just now"
-msgstr "zojuist nu net aa y ahora con ustedes::::c"
+msgstr "zojuist nu net aa y ahora con ustedes:::: )sdccccc"
 
 #: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/MessagesTab/HanselMessageSuggestions.js:1
 msgid "Message suggestions"
