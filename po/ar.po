@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-01 09:55-0500\n"
-"PO-Revision-Date: 2020-10-08 23:54+0000\n"
+"PO-Revision-Date: 2020-10-09 16:10+0000\n"
 "Last-Translator: alberto <alberto.rios@globant.com>\n"
 "Language-Team: Arabic <http://weblate.corp.indeed.com/projects/hello-world/"
 "weblocal/ar/>\n"
@@ -3697,7 +3697,7 @@ msgstr ""
 #: web/WEB-INF/templates/app/candidate-details.soy:1
 #, java-format
 msgid "{0}/{1} answers met requirements"
-msgstr "{0}/{1} إجابات مطابقة للشروط TEST 2"
+msgstr "{0}/{1} إجابات مطابقة للشروط TEST 2 ccccccccccccccccccc"
 
 #. A subject of an initial message to send multiple candidates from an employer
 #: web/WEB-INF/templates/app/candidate-messages.soy:1
