@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-31 20:54-0500\n"
-"PO-Revision-Date: 2020-10-09 16:10+0000\n"
+"PO-Revision-Date: 2020-10-09 16:55+0000\n"
 "Last-Translator: alberto <alberto.rios@globant.com>\n"
 "Language-Team: Dutch <http://weblate.corp.indeed.com/projects/hello-world/"
 "weblocal/nl/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: src/resources/webapp/static/scripts/components/hansel/InformationSectionTab/HanselInformationSectionTabInfo.js:1
 msgid "Application"
-msgstr "sollicitatie text commit"
+msgstr "sollicitatie text commit xsss"
 
 #: src/resources/webapp/static/scripts/components/hansel/HanselNamePlate.js:1
 #, python-brace-format
