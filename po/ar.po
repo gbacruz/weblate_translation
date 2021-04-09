@@ -22,6 +22,10 @@ msgstr ""
 msgid " -- select an option -- "
 msgstr " arabic word for select option i"
 
+msgid " -- select an option new string"
+msgstr " arabic word for select option "
+
+
 msgid " -- select an option -- "
 msgstr " arabic word for select option duplicated strings here"
 
