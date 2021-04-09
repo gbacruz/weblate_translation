@@ -20,7 +20,7 @@ msgstr ""
 #: main.c:11
 #, c-format
 msgid "Hello, world!\n"
-msgstr "hola mundo en aleman remoteChange"
+msgstr "hola mundo en aleman remoteChange test 2"
 
 #: main.c:12
 #, c-format
