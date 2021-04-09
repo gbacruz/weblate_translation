@@ -20,7 +20,7 @@ msgstr ""
 #: web/WEB-INF/templates/app/candidate-messages.soy:1
 #, java-format
 msgid " -- select an option -- "
-msgstr " arabic word for select option "
+msgstr " arabic word for select option i"
 
 msgid " -- select an option -- "
 msgstr " arabic word for select option duplicated strings here"
